@@ -1,2 +1,4 @@
-# UNIX
-Work associated with practicals in UNIX on PrF
+# DISTRIBUTION OF PHRED QUALITIES OVER THE WHOLE GENOME AND BY CHROMOSOME
+This repository represents a bioinformatic pipeline to carry distribution of PHRED qualities over the genome of Luscinia.
+
+
