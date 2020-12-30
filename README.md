@@ -19,6 +19,8 @@ Script to get graph is located in R file together with resulted graph.
 ![R](R/DPwhole_genome.png)
 
 ### Resulting ggplot graph of read depth over the chromosomes
+
 ![R](R/DPchromosomes.png)
+
 I chose first three chromosomes - chromosome1, chromosome2, chromosome3 and examinated the read depths.
 
