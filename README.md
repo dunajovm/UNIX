@@ -14,7 +14,7 @@ chmod +x prepare_file.sh
 Now we have selected data in data directory. I will work with prepared_data_genome.tsv while carrying distribution of read depths over the whole genome, then I have prepared_data_1_2_3chrom.tsv file to carry distribution of read depths over the first three chromosomes.  
 
 ### Resulting ggplot graph of DP read depth over the whole genome
-
+![R](R/DPwhole_genome.png)
 ### Resulting ggplot graph of read depth over the chromosomes
 I chose first three chromosomes - chromosome1, chromosome2, chromosome3 and examinated the read depths.
 
